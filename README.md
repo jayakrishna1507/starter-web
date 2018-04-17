@@ -11,7 +11,10 @@ this paragraph describes deployment
 
 ## How to contribute
 
+please fork this repository
+
 ##this is where we contribute
 
 ## adding copyright section
+
 
