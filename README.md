@@ -11,4 +11,7 @@ this paragraph describes deployment
 
 ## How to contribute
 
-this is where we contribute
+##this is where we contribute
+
+## adding copyright section
+
